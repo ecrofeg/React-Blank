@@ -1,2 +1,2 @@
-# react_blank
+# React-Blank
 Заготовка Webpack + ReactJS
